@@ -1,0 +1,11 @@
+student details:
+
+name:
+
+Roll no: 
+
+course:
+
+college name:
+
+Location:
